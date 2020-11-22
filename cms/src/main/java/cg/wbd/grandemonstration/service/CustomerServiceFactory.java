@@ -1,5 +1,6 @@
 package cg.wbd.grandemonstration.service;
 
+import cg.wbd.grandemonstration.service.CustomerService;
 import cg.wbd.grandemonstration.service.impl.SimpleCustomerServiceImpl;
 
 public class CustomerServiceFactory {
